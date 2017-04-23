@@ -19,7 +19,7 @@ namespace Cold_Rakan
             if (target == null)
                 return;
 
-            if (MenuAdmin.ComboMenu["Use Q"].Cast<CheckBox>().CurrentValue)
+            if (MenuAdmin.HarassMenu["Use Q"].Cast<CheckBox>().CurrentValue)
             {
                 var qPred = Spells.Q.GetPrediction(target);
 
