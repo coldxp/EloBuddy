@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Cold_Rakan")]
+[assembly: AssemblyTitle("Cold-Rakan")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ColdxP")]
-[assembly: AssemblyProduct("Cold_Rakan")]
-[assembly: AssemblyCopyright("Copyright © ColdxP 2017")]
-[assembly: AssemblyTrademark("ColdxP")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Cold-Rakan")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a4b2f212-145c-46d8-8017-d688c7e222ee")]
+[assembly: Guid("9589f7e4-688f-4c7b-ad99-f86a5641e558")]
 
 // Version information for an assembly consists of the following four values:
 //
